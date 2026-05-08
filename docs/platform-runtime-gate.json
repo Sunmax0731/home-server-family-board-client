@@ -1,0 +1,14 @@
+{
+  "product": "home-server-family-board-client",
+  "title": "自宅サーバー・家庭掲示板クライアント",
+  "domain": "AndroidApp",
+  "ideaNo": 12,
+  "platformType": "android-emulator",
+  "expectedPublicTarget": "Google Play",
+  "browser": null,
+  "android": {
+    "packageName": "com.sunmax0731.homeserverfamilyboardclient",
+    "evidence": "dist/android-emulator-result.json"
+  },
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
