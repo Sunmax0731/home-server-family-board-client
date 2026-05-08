@@ -1,0 +1,12 @@
+{
+  "required": [
+    "INTERNET"
+  ],
+  "excluded": [
+    "CAMERA",
+    "READ_CONTACTS",
+    "ACCESS_FINE_LOCATION",
+    "READ_EXTERNAL_STORAGE"
+  ],
+  "reason": "closed alpha read-only home server client"
+}

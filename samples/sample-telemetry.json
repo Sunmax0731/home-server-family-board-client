@@ -1,0 +1,18 @@
+{
+  "contentType": "android-client-snapshot",
+  "permissions": [
+    "INTERNET"
+  ],
+  "boardItems": [
+    {
+      "id": "board-001",
+      "title": "家庭掲示板サンプル",
+      "status": "read-only"
+    },
+    {
+      "id": "server-001",
+      "title": "自宅サーバー状態",
+      "status": "ok"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "product": "home-server-family-board-client",
+  "sourceRank": {
+    "rank": 41,
+    "tier": "P2",
+    "score": 58,
+    "domain": "AndroidApp",
+    "ideaNo": 12,
+    "ideaName": "自宅サーバー・家庭掲示板クライアント",
+    "repositoryName": "home-server-family-board-client",
+    "publicTarget": "Google Play",
+    "priorityReason": "自宅サーバー前提なので対象は狭いが、閲覧専用クライアントなら安全に切れる。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\AndroidApp\\created_idea_012_home-server-family-board-client",
+  "exactZipPath": "D:\\AI\\AndroidApp\\created_idea_012_home-server-family-board-client\\idea_012_home-server-family-board-client.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "home-server-family-board-client",
+  "metadataIdea": "自宅サーバー・家庭掲示板クライアント",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
