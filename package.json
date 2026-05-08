@@ -5,11 +5,14 @@
   "type": "module",
   "description": "自宅サーバー・家庭掲示板クライアント closed alpha prototype",
   "scripts": {
-    "test": "node scripts/validate.mjs && node scripts/web-smoke.mjs",
+    "test": "node scripts/validate.mjs && node scripts/web-smoke.mjs && node tools/platform-runtime-gate.mjs && node tools/closed-alpha-guard.mjs",
     "validate": "node scripts/validate.mjs",
     "smoke:web": "node scripts/web-smoke.mjs",
     "serve": "node scripts/serve.mjs",
-    "cli": "node src/cli/index.mjs"
+    "cli": "node src/cli/index.mjs",
+    "platform:gate": "node tools/platform-runtime-gate.mjs",
+    "closed-alpha:guard": "node tools/closed-alpha-guard.mjs",
+    "android:emulator": "node tools/android-sdk-build-launch.mjs"
   },
   "keywords": [
     "AndroidApp",
